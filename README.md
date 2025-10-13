@@ -179,11 +179,13 @@ This repository has external dependencies on other open source projects.
   - Reference: The Raspberry Pi Foundation. Sense HAT Emulator. (2016) [Online]. Available: https://sense-emu.readthedocs.io/en/v1.0/.
 - [pisense](https://pisense.readthedocs.io/en/release-0.2/#)
   - Reference: D. Jones. Pisense. (2016 – 2018) [Online]. Available: https://pisense.readthedocs.io/en/release-0.2/.
+- [requests](https://github.com/psf/requests)
+  - Reference: Python Software Foundation. Requests. (2025) [Online]. Available: https://github.com/psf/requests.
+
+Additional Library References (for in-class examples not currently used in assignments; e.g., Computer Vision examples):
+
 - [paho-mqtt](https://www.eclipse.org/paho/)
   - Reference: Eclipse Foundation, Inc. Eclipse Paho™ MQTT Python Client. (2020) [Online]. Available: https://github.com/eclipse/paho.mqtt.python.
-
-Additional Library References (for in-class Computer Vision examples):
-
 - [imutils](https://pypi.org/project/imutils/)
   - Reference: A. Rosebrock. imutils. (2020) [Online]. Available: https://pypi.org/project/imutils/.
 - [opencv-python](https://pypi.org/project/opencv-python/)
@@ -223,3 +225,4 @@ Please refer to the referenced [ipp-exercise-components](https://github.com/prog
 If any code samples or other technology this work contains or describes is subject to open source licenses or the intellectual property rights of others, it is your responsibility to ensure that your use thereof complies with such licenses and/or rights.
 
 For addition information on code references used in this board, see [IPP-DOC-REF](https://github.com/programming-in-python/ipp-exercise-tasks/issues/4).
+
