@@ -4,7 +4,7 @@
 
 Briefly describe the objectives of the Lab Module:
 
-1) 
+1) Build my enviornment on VSC
 
 2) 
 
