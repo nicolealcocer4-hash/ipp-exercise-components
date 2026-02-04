@@ -20,7 +20,7 @@ print(selling_apples.capitalize())
 # Test 4: String formatting with arguments test
 
 school_info = "Location: {school}, {city}".format(
-    school="Northeastern University",
+    school = "Northeastern University",
     city="Boston"
 )
 
